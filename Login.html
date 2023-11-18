@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Login.css"> 
+    <title>Login</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><p>Name:</p>
+                <input type="text" id="ten" placeholder="Enter your name" required>
+                <br>
+            </td>
+            <td>
+        </tr>
+        <tr>       
+                <p>Email:</p>
+                <input type="email" id="email" placeholder="Enter your email" required>
+            </td>
+        </tr> 
+        <tr>
+            <td>
+                <p>Password:</p>
+                <input type="password" id="matkhau" placeholder="Enter you password" required>
+            </td>
+        </tr> 
+        <tr>
+            <td>
+                <button onclick="Signin()">Submit</button>
+            </td>
+        </tr>
+    </table>
+</body>
+<script>
+    function Signin(){
+            var name = document.getElementById("ten").value;
+            var e = document.getElementById("email").value;
+            var pass = document.getElementById("matkhau").value;
+            if(name == ""){
+                alert("Ten khong duoc trong");
+            }
+            else if(e == "")
+                alert("Dinh dang email sai");
+                
+            else if(pass == "" || /\s/.test(pass))
+                alert("Dinh dang mat khau sai");
+                
+            
+            else
+                alert("Dang ki thanh cong");
+}
+</script>
+</html>

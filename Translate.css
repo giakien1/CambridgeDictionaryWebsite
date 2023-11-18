@@ -1,0 +1,137 @@
+.container3{
+    display: flex;
+}
+
+.gachchan{
+    text-decoration: underline;
+}
+
+.gachchan:hover{
+    text-decoration: none;
+}
+
+.noidungmain3{
+    width: 1066px;
+    height: 438px;
+    background-color: #fff3ff;
+}
+
+.chonngonngu1{
+    padding-top: 8px;
+    padding-left: 20px;
+}
+
+.ngonngu{
+    display: flex;
+}
+
+.ngonnguleftunder:hover{
+    text-decoration: underline;
+}
+
+.ngonngumid{
+    padding-left: 150px;
+}
+
+.ngonnguright{
+    padding-left: 130px;
+}
+
+.maintranslations{
+    width: 1065px;
+    height: 320px;
+    background-color: #ddfaff;
+    margin-left: -20px;
+}
+
+.blockxanh{
+    width: 1022px;
+    height: 170px;
+    background-color: #34b330;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.blockdexanh{
+    width: 1022px;
+    height: 170px;
+    background-color: #fff;
+    margin-top: -165px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.seemoreunder{
+    text-decoration: underline;
+}
+
+.seemoreunder:hover{
+    text-decoration: none;
+}
+
+.blockdexanhright{
+    margin-right: 250px;
+}
+
+.maindefinition{
+    width: 1066px;
+    height: 280px;
+    background-color: #ddfaff;
+}
+
+.blocktim2{
+    width: 1025px;
+    height: 120px;
+    background-color: #44277c;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.blockdetim2{
+    width: 1025px;
+    height: 120px;
+    background-color: #fff;
+    margin-top: -115px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blockdetim2left{
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+.blockdetim2:hover{
+    text-decoration: underline;
+}
+
+.blockdetim2right{
+    padding-top: 20px;
+    padding-right: 200px;
+}
+
+.blogcontainer3-1{
+    width: 966px;
+    height: 290px;
+    background-color: #fff;
+    box-shadow: 5px 5px 10px #888888;
+    display: flex;
+    margin-left: 50px;
+    
+}
+
+.mainblog3-1{
+  
+}
+
+.filter2{
+    width: 1070px;
+    height: 220px;
+    background-color: #1d2a57;
+    
+}
+

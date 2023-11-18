@@ -1,0 +1,320 @@
+link{
+    text-decoration: none;
+}
+
+link:hover{
+    text-decoration: underline;
+}
+
+.nav{
+    background-color: #202a58;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0;
+    cursor: pointer;
+    border: none;
+}
+
+.menu{
+    width: auto;
+    height: 50px;
+    background-color: #202a58;
+    position: relative;
+}
+
+.menu_ul{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#menu_logo{
+    width: 100px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.menu_item{
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#advertise2{
+    display: flex;
+    position: relative;
+    left: 1100px;
+    top: -200px;
+    width: 300px;
+}
+
+#ad2box{
+    background-color: #1d2a57;
+    width: 100%;
+    height: 250px;
+    position: relative;
+    top: 150px;
+}
+
+.adtextbox{
+    width: 70%;
+    height: 40px;
+    position: relative;
+    left: 20px;
+}
+
+#adtextbox1{
+    background-color: #1d2a57;
+    width: 200px;
+}
+
+.adtext{
+    font-size: 25px;
+    text-align: center;
+    color: #1d2a57;
+    width: 100px;
+    left: 20px;
+    
+}
+
+#sadtextbox{
+    margin-top: -30px;
+}
+
+#sadtext{
+    width: 100%;
+    color: #fff;
+    position: relative;
+    margin-top: 50px;
+}
+
+#adbutton{
+    display: flex;
+}
+
+.adbut{
+    position: relative;
+    left: 20px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+#titleBox{
+    color: #252a57;
+    width: 600px;
+    height: 200px;
+    position: relative;
+    left: 200px;
+    top: 50px;
+    font-size: 35px;
+}
+
+.horizontal-line {
+    border-top: 1px solid #252a57;
+    width: 100%;    
+}
+
+.titlelink{
+    color: #252a57;
+    font-size: 15px;
+}
+
+#hoho{
+    position: relative;
+    top: -14px;
+}
+
+.titlelink:hover{
+    text-decoration: none;
+}
+
+#kaka{
+    display: flex;
+}
+
+#footer{
+    display: flex;
+    width: 1510px;
+    height: 200px;
+    background-color: #1d2a57;
+    position: relative;
+    top:20px;
+    justify-content: space-between;
+}
+
+#footertext{
+    justify-content: space-between;
+}
+
+#column1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 150px;
+}
+
+.c1text{
+    color: #fff;
+    text-decoration: none;
+}
+
+.c1text:hover{
+    text-decoration: underline;
+}
+
+#column2{
+    display: flex;
+    flex-direction: column;
+    margin-top: -113px;
+    margin-left: 250px;
+    width: 150px;
+}
+
+#column3{
+    display: flex;
+    flex-direction: column;
+    margin-top: -95px;
+    margin-left: 500px;
+    width: 150px;
+}
+
+#footericon{
+    list-style: none;
+    display: flex;
+    position: relative;
+    left: 1200px;
+    top: -170px;
+    width: 50px;
+    height: 31px;
+    border-radius: 10px;
+}
+
+.hehe{
+    font-size: 30px;
+    background-color: #fff;
+}
+
+#imgfoot{
+    position: relative;
+    top: -20px;
+    left: -150px;
+    width: 200px;
+    height: 200px;
+}
+
+#linkfoot{
+    width: 50px;
+}
+
+#lasttext{
+    position: relative;
+    margin-left: -400px;
+    margin-top: 150px;
+    color: #fff;
+    left: 100px;
+}
+
+#maincontent{
+    display: flex;
+    position: relative;
+    left: 200px;
+    top: -300px;
+    background-color: #5d2fc1;
+    width: 800px;
+    height: 600px;
+}
+
+#gamecontent{
+    height: 500px;
+}
+
+#gametext{
+    text-align: center;
+    font-size: 30px;
+    height: 100px;
+    width: 600px;
+    position: relative;
+    top: -150px;
+    left: 100px;
+    color: #fff;
+}
+
+#gamebut{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: yellow;
+    color: #5d2fc1;
+    
+    position: relative;
+    top: -180px;
+    left: 350px;
+}
+
+#Recom{
+    position: relative;
+    left: 170px;
+    top: -300px;
+    max-width: 900px;
+}
+
+.recbox{
+    padding-left: 20px;
+}
+
+#outterBox{
+    display: flex;
+}
+
+#pRec1{
+    font-size: 20px;
+    position: relative;
+    left: 20px;
+    color: #5d2fc1;
+    max-width: 700px;
+
+}
+
+.pRecom1{
+    color: #5d2fc1;
+    width: 230px;
+    margin-left: 20px;
+    
+}
+
+.recbut{
+    border-radius: 20px;
+    width: 125px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+#recbut11{
+    background-color: #fdc702;
+}
+
+#recbut12{
+    background-color: #1d2a57;
+    color: #fff;
+}
+
+/* body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} */

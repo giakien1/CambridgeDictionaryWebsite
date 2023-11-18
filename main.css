@@ -1,0 +1,580 @@
+.header{
+    background-color: #1d2a57;
+   
+}
+
+.header_navbar{
+    display: flex;
+    justify-content: space-between;
+    max-height: 50px;
+}
+
+.header__navbar-list{
+    list-style: none;
+    padding-left: 0;
+    
+}
+
+.header__navbar-item{
+    margin: 0px 8px;
+    position: relative;
+}
+
+.header__navbar-item{
+   display: inline-block;
+   color: #fff;
+   font-size: 15px;
+   /* color: var(--white-color); */
+   text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* .header__navbar-item1::after{
+    border-left: 1px solid #fff;
+} */
+
+.navbar2{
+    height: 280px;
+    background-color: #2a2e60;
+    display: flex;
+}
+
+.block1{
+    width: 350px;
+}
+
+
+#blockcon1{
+    width: 60px;
+    height: 30px;
+    background-color: #fe8a23;
+    position: relative;
+}
+
+#blockcon2{
+    width: 90px;
+    height: 30px;
+    background-color: #fec400;
+    position: relative;
+    top: 101px;
+}
+
+#blockcon3{
+    width: 30px;
+    background-color: #298ac5;
+    position: relative;
+    top: 21px;
+    left: 40px;
+}
+
+#blockcon4{
+    width: 30px;
+    height: 30px;
+    background-color: #73e2d9;
+    border-radius: 50%;
+    position: relative;
+    top: -8px;
+    left: 10px;
+}
+
+#logo2{
+    width: 300px;
+    position: relative;
+    left: 60px;
+    top: 50px;
+}
+
+#logo3{
+    color: #fff;
+    font-size: 18px;
+    position: relative;
+    top: 50px;
+    left: 160px;
+}
+
+.block2{
+    display: flex;
+    width: 100%;
+}
+
+.search{
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#thanhtimkiem{
+    width: 100%;
+    max-width: 700px;
+    padding: 10px;
+    border-radius: 50px 50px 50px 50px;
+    position: relative;
+    top: 0px;
+    left: 90px;
+    outline: none;
+}
+
+#nutsearch{
+    width: 50px;
+    height: 50px;
+    pad: 10px 20px;
+    border: none;
+    border-radius: 30px 30px 30px 30px;
+    background-color: yellow;
+    position: relative;
+    left: 60px;
+    top: 115px;
+    cursor: pointer;
+}
+
+.blockcon5{
+    width: 80px;
+    height: 25px;
+    background-color: #0580e8;
+    position: relative;
+    left: 332px;
+    top: 255px;
+}
+
+.blockcon6{
+    width: 25px;
+    height: 25px;
+    background-color: #5d30c1;
+    border-radius: 50%;
+    position: relative;
+    top: 255px;
+    left: 290px;
+}
+
+.blockcon7{
+    width: 60px;
+    height: 25px;
+    background-color: #ff8029;
+    position: relative;
+   left: 245px;
+   top: 230px;
+}
+
+.blockcon8{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #5ce8ff;
+    position: relative;
+   left: 205px;
+   top: 200px;
+}
+
+#quangcao1{
+    width: 980px;
+    height: 90px;
+    position: relative;
+    left: 250px;
+    top: 40px;
+}
+
+#h1{
+    max-width: 1399px;
+    position: relative;
+    left: 120px;
+    top: 10px;
+}
+
+.blocknoidung{
+    display: flex;
+    width: 1060px;
+    height: 520px;
+    background-color: #ddfaff;
+    position: relative;
+    top: 15px;
+    left: 70px;
+}
+
+.blockmain1{
+    display: flex;
+    width: 470px;
+    height: 230px;
+    background-color: #fff;
+    position: relative;
+    left: 50px;
+    top: 34px;
+}
+
+#blockmaincon1{
+    width: 60px;
+    height: 230px;
+    background-color: #54358f;
+}
+
+#noidung{
+    
+    position: relative;
+}
+
+.vitrichuviet{
+    font-size: 20px;
+    position: relative;
+    left: 20px;
+}
+
+.blockmain2{
+    display: flex;
+    width: 470px;
+    height: 60px;
+    background-color: #fff;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.blockmaincon2{
+    width: 60px;
+    height: 60px;
+    background-color: #e0374d;
+}
+
+.noidung2{
+    font-size: 20px;
+    position: relative;
+    left: 20px;
+}
+
+.linkunder:hover{
+    text-decoration: underline;
+}
+
+.blockmain3{
+    display: flex;
+    width: 470px;
+    height: 60px;
+    background-color: #fff;
+    position: relative;
+    top: 65px;
+    left: 50px;
+}
+
+.blockmaincon3{
+    width: 60px;
+    height: 60px;
+    background-color: #603caa;
+}
+
+.noidung3{
+    font-size: 20px;
+   position: relative;
+   left: 20px;
+}
+
+.blockmain4{
+    display: flex;
+    width: 470px;
+    height: 60px;
+    background-color: #fff;
+    position: relative;
+    top: 75px;
+    left: 50px;
+}
+
+.blockmaincon4{
+    width: 60px;
+    height: 60px;
+    background-color: #ff8838;
+}
+
+.noidung4{
+    font-size: 20px;
+   position: relative;
+   left: 20px;
+}
+
+.blockmain5{
+    display: flex;
+    width: 470px;
+    height: 320px;
+    background-color: #fff;
+    position: relative;
+    top: 34px;
+    left: 70px;
+}
+
+.blockmaincon5{
+    width: 60px;
+    height: 320px;
+    background-color: #49ac3e;
+}
+
+.noidung5{
+    font-size: 18px;
+    position: relative;
+    left: 20px;
+}
+
+#seemore{
+    position: relative;
+    left: 70px;
+}
+
+#space{
+    margin-left: 5px;
+}
+
+.container{
+    display: flex;
+}
+
+.quangcao3{
+    width: 350px;
+    height: 300px;
+    position: relative;
+    left: 90px;
+    top: 180px;
+}
+
+.blockcontainer2{
+     position: relative;
+     left: 0px;
+}
+
+.hinhanhblog1{
+    display: flex;
+    width: 950px;
+    height: 290px;
+    box-shadow: 5px 5px 10px #888888;
+    background-color: #fff;
+    position: relative;
+    left: 120px;
+}
+
+#blog1{
+    width: 475px;
+    height: 290px;
+    position: relative;
+}
+
+#noidungblog1{
+    position: relative;
+    left: 20px;
+}
+
+#linkblog1{
+    font-size: 24px;
+    max-width: 450px;
+}
+
+#buttonblog1{
+    width: 100px;
+    height: 30px;
+    position: relative;
+    border-radius: 20px 20px 20px 20px;
+    background-color: #1d2a57;
+    left: 10px;
+    color: #fff;
+}
+
+
+.hinhanhblog2{
+    display: flex;
+    width: 950px;
+    height: 250px;
+    box-shadow: 5px 5px 10px #888888;
+    background-color: #fff;
+    position: relative;
+    left: 120px;
+}
+
+#blog2{
+    width: 475px;
+    height: 250px;
+    position: relative;
+}
+
+.noidungblog2{
+    max-width: 400px;
+    position: relative;
+    left: 20px;
+}
+
+.chublog2{
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+
+#buttonblog2{
+    width: 100px;
+    height: 30px;
+    position: relative;
+    border-radius: 20px 20px 20px 20px;
+    background-color: #1d2a57;
+    left: 10px;
+    color: #fff;
+}
+
+.hinhanhblog3{
+    display: flex;
+    width: 950px;
+    height: 290px;
+    box-shadow: 5px 5px 10px #888888;
+    background-color: #fff;
+    position: relative;
+    left: 120px;
+}
+
+#blog3{
+    width: 475px;
+    height: 290px;
+    position: relative;
+}
+
+.noidungblog3{
+    position: relative;
+    left: 20px;
+}
+
+#buttonblog3{
+    font-size: 15px;
+    width: 150px;
+    height: 30px;
+    position: relative;
+    border-radius: 20px 20px 20px 20px;
+    background-color: #1d2a57;
+    left: 10px;
+    color: #fff;
+}
+
+.hinhanhblog4{
+    display: flex;
+    width: 950px;
+    height: 290px;
+    box-shadow: 5px 5px 10px #888888;
+    background-color: #fff;
+    position: relative;
+    left: 120px;
+}
+
+.noidungblog4{
+    position: relative;
+    left: 20px;
+    max-width: 400px;
+}
+
+.chublog4{
+    font-size: 20px;
+    position: relative;
+    
+}
+
+#appstore{
+width: 150px;
+height: 40px;
+border-radius: 20px 20px 20px 20px;
+}
+
+#ggplay{
+    width: 150px;
+   height: 40px;
+   border-radius: 20px 20px 20px 20px;
+}
+
+.filter{
+    width: 950px;
+    height: 220px;
+    background-color: #1d2a57;
+    position: relative;
+    left: 120px;
+    box-shadow: 5px 5px 10px #888888;    
+}
+
+.position{
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+
+.buttonfilter{
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #616a89;
+    color: #fff;
+    position: relative;
+    top: 10px;
+    left: 45px;
+}
+
+.footer{
+    height: 235px;
+    background-color:#1d2a57;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer1{
+    position: relative;
+    left: 52px;
+}
+
+.Learn:hover{
+    text-decoration: underline;
+    color: #fff;
+}
+
+.footermain1{
+    display: flex;
+}
+
+.logofooter{
+    display: flex;
+    position: relative;
+    right: 100px;
+    top: 50px;
+}
+
+.kichthuoclogo{
+    width: 100px;
+    height: 100px;
+}
+
+.khunglogo{
+    font-size: 30px;
+}
+
+#logofooter{
+    width: 200px;
+    position: relative;
+    right: 120px;
+    top: 60px;
+}
+
+#banquyen{
+    font-size: 14px;
+    max-width: 200px;
+    position: relative;
+    top: 50px;
+    right: 100px;
+}
+
+.table-of-contents{
+      width: 400px;
+      height: 100%;
+      background-color: #fff;
+
+}
+
+/* CSS để ẩn khung mục lục ban đầu */
+.table-of-contents {
+    display: none;
+}
+
+/* CSS để hiển thị khung mục lục khi có lớp "show" */
+.table-of-contents.show {
+    display: block;
+    /* Thêm các thuộc tính khác tùy thuộc vào thiết kế của bạn */
+}

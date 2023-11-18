@@ -1,0 +1,161 @@
+.bar_and_logo{
+    display: flex;
+    border-right: solid 1px #fff;
+    width: 170px;
+    height: 50.4px;
+}
+
+#bar{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+
+.logopage2{
+    position: relative;
+    left: 40px;
+    top: 10px;
+}
+
+.headerpage2{
+    display: flex;
+    height: 100%;
+    background-color: #0f173b;
+}
+
+.item_left{
+    display: flex;
+    height: 100%;
+    width: 50%;
+}
+
+.bar2{
+   display: flex;
+}
+
+.nav{
+    list-style: none;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.navmainleft{
+    display: flex;
+}
+
+.item_right{
+    width: 50%;
+    height: 50px;
+    display: flex;
+   justify-content: flex-end;
+}
+
+.iconright{
+    position: relative;
+    top: 15px;
+    right: 80px;
+}
+
+.searchdictionary{
+    border-radius: 20px 20px 20px 20px;
+    height: 30px;
+    background-color: yellow;
+    position: relative;
+    top: 10px;
+    right: 40px;
+}
+
+.navhide{
+    height: 50px;
+    background-color: #0f173b;
+    display: flex;
+}
+
+.searchhide{
+    margin: 0px auto;
+}
+
+#inputsearchhide{
+    width: 565px;
+    height: 40px;
+    border-radius: 30px 30px 30px 30px;
+    padding: auto;
+}
+
+.buttonsearchhide{
+    width: 45px;
+    height: 45px;
+    border-radius: 40px;
+    background-color: yellow;
+}
+
+.container2{
+    display: flex;
+}
+
+.quangcaoleft{
+    max-width: 360px;
+    margin-left: 50px;
+}
+
+.maincontainer2{
+    
+    margin-left: 10px;
+
+}
+
+.quangcaongang{
+    width: 980px;
+    height: 90px;
+    background-color: #fff;
+    display: flex;
+    border: 2px solid #ccc;
+}
+
+#anhquangcaongang{
+    height: 90px;
+}
+
+.blockchuanoidung{
+    width: 750px;
+    height: 330px;
+    background-color: #ddfaff;
+}
+
+
+
+.containerleft{
+    display: flex;
+}
+
+.blocktim{
+    width: 700px;
+    height: 120px;
+    background-color: #5f3e6a;
+}
+
+.blockdetim{
+    width: 700px;
+    height: 120px;
+    background-color: #fff;
+    display: flex;
+}
+
+.underlineblock:hover{
+    text-decoration: underline;
+}
+
+.blocknoidung2{
+    width: 750px;
+    height: 330px;
+    background-color: #ddfaff;
+    margin-top: 20px;
+}
+
+.AGI:hover{
+    text-decoration: underline;
+    
+}
